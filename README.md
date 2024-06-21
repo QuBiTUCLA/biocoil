@@ -31,4 +31,4 @@ Welcome to the assembly instructions for constructing the copper coils used in o
 7. **Magnetic Field Measurement (D)**: Use a multi-axes magnetometer (F71 Multi-axis sensor) to measure the produced magnetic fields when different currents are applied.
 
 
-   <img src="BioCoil.png" width="700">
+   <img src="Coil Design Files/BioCoil.png" width="700">
